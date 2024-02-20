@@ -3,7 +3,7 @@
 
 My name is Felipe Ordonez, I am from the University of Quebec in Montreal (UQAM) and I am currently enrolled in a DESS in bioinformatics 🧬🖥 🦠.
 
-I have a huge interest in the application of bioinformatic and genomic tools in healthcare and diagnostic as well as data analysis and AI tools. Currently learning javascript, git and being good at using python, R, HTML and SQL.
+I have a huge interest in the application of bioinformatic and genomic tools in healthcare and diagnostic as well as data analysis and AI tools. I am learning javascript, git and being good at using python, R, HTML and SQL.
 
 - 🔭 I’m currently working on this page
 - 🌱 I’m currently learning react
