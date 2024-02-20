@@ -9,7 +9,7 @@ I have a huge interest in the application of bioinformatic and genomic tools in 
 - 👯 I’m looking to collaborate on projects that have an impact on health
 - 🤔 I’m looking for help with getting hands on experience
 - 💬 Ask me about my lab experience
-- 📫 How to reach me: [linkedIn](https://ca.linkedin.com/in/afob/)
+- 📫 How to reach me: [linkedIn](https://ca.linkedin.com/in/afob/ "The best profile")
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
