@@ -1,7 +1,7 @@
 ### Hi there 🍰 Welcome / Bonjour 🍰 Bienvenue!
 
 
-My name is Felipe Ordonez, I am from the University of Quebec in Montreal (UQAM) and I am currently enrolled in a DESS in bioinformatics 🧬🖥 🦠.
+My name is Felipe Ordonez, I am from Montreal (UQAM) and I am currently enrolled in the Master's of Informatics - Bioinformatics 🧬🖥 🦠.
 
 I have a huge interest in the application of bioinformatics and genomic tools in healthcare and diagnostics as well as data analysis and AI tools. I am learning JavaScript, Git, and striving to become proficient in using Python, R, HTML, and SQL
 
