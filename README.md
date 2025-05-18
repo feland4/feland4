@@ -3,13 +3,13 @@
 Je m’appelle Andres Felipe Ordonez, je viens de Montréal et je suis présentement inscrit à la maîtrise en informatique – bio-informatique 🧬🖥 🦠 à l’UQAM.
 
 J’ai un grand intérêt pour l’application de la bio-informatique et des outils génomiques dans le domaine de la santé et du diagnostic, ainsi que pour l’analyse de données et les outils d’intelligence artificielle appliqués à la salubrité alimentaire. J’apprends constamment de nouveaux outils et je me tiens à jour en Python, R, analyse de données génomiques et microbiome.
-	•	🔭 Je travaille présentement sur cette page
-	•	👯 Je suis intéressé à participer à des projets d’analyse de données génomiques
-	•	🤔 Je suis à la recherche d’opportunités pour appliquer l’IA en assurance qualité
-	•	💬 Posez-moi des questions sur mon expérience en laboratoire
-	•	📫 Pour me rejoindre : [linkedIn](https://ca.linkedin.com/in/afob/ "LinkedIn") <andresfordonezb@gmail.com>
-	•	😄 Pronoms : il/lui
-	•	⚡ Fait amusant : J’adore faire de la pâtisserie et des desserts, et j’aime les balades à vélo, la natation et les films de science-fiction. 🚴‍♂️🍰🩻
+- 🔭 Je travaille présentement sur cette page
+- 👯 Je suis intéressé à participer à des projets d’analyse de données génomiques
+- 🤔 Je suis à la recherche d’opportunités pour appliquer l’IA en assurance qualité
+- 💬 Posez-moi des questions sur mon expérience en laboratoire
+- 📫 Pour me rejoindre : [linkedIn](https://ca.linkedin.com/in/afob/ "LinkedIn") <andresfordonezb@gmail.com>
+- 😄 Pronoms : il/lui
+- ⚡ Fun fact : J’adore faire de la pâtisserie et des desserts, et j’aime les balades à vélo, la natation et les films de science-fiction. 🚴‍♂️🍰🩻
 
 [English]\
 ### Hi there 🍰 Welcome  !
