@@ -1,4 +1,4 @@
-### Bonjour 🍰 Bienvenue / Hi there 🍰 Welcome  !
+### Bonjour 🍰 Bienvenue !
 
 Je m’appelle Andres Felipe Ordonez, je viens de Montréal et je suis présentement inscrit à la maîtrise en informatique – bio-informatique 🧬🖥 🦠 à l’UQAM.
 
@@ -12,7 +12,7 @@ J’ai un grand intérêt pour l’application de la bio-informatique et des out
 	•	⚡ Fait amusant : J’adore faire de la pâtisserie et des desserts, et j’aime les balades à vélo, la natation et les films de science-fiction. 🚴‍♂️🍰🩻
 
 [English]\
-###/ Hi there 🍰 Welcome  !
+### Hi there 🍰 Welcome  !
 My name is Andres Felipe Ordonez, I am from Montreal and I am currently enrolled in the Master's of Informatics - Bioinformatics 🧬🖥 🦠 at UQAM.
 
 I have a huge interest in the application of bioinformatics and genomic tools in healthcare and diagnostics as well as data analysis and AI tools oriented to food safety. I am constantly learning about new tools and developments in Python, R, Genomic Data Analysis, and the microbiome.
