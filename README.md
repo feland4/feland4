@@ -8,7 +8,6 @@ J’ai un grand intérêt pour l’application de la bio-informatique et des out
 - 🤔 Je suis à la recherche d’opportunités pour appliquer l’IA en assurance qualité
 - 💬 Posez-moi des questions sur mon expérience en laboratoire
 - 📫 Pour me rejoindre : [linkedIn](https://ca.linkedin.com/in/afob/ "LinkedIn") <andresfordonezb@gmail.com>
-- 😄 Pronoms : il/lui
 - ⚡ Fun fact : J’adore faire de la pâtisserie et des desserts, et j’aime les balades à vélo, la natation et les films de science-fiction. 🚴‍♂️🍰🩻
 
 [English]\
@@ -23,7 +22,6 @@ I have a huge interest in the application of bioinformatics and genomic tools in
 - 🤔 I’m looking for opportunities to implement ai in quality assurance a
 - 💬 Ask me about my lab experience
 - 📫 How to reach me: [linkedIn](https://ca.linkedin.com/in/afob/ "LinkedIn") <andresfordonezb@gmail.com>
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to prepare bakery and desserts and I enjoy bike rides, swimming and sci-fi movies. 🚴‍♂️🍰🩻
 
 <!--
